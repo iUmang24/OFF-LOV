@@ -1,0 +1,3 @@
+- [x] Build seven OFF CULTURE pages and shared animated shell.
+- [x] Implement canvas reveal, interaction motion, bag drawers, and demo checkout.
+- [x] Verify desktop/mobile views and interactions.
